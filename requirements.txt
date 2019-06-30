@@ -1,0 +1,6 @@
+nltk
+urllib
+bs4
+re 
+gensim
+random
